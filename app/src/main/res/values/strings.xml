@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo-android-mvvm-components</string>
+    <string name="action_settings">Settings</string>
+</resources>
